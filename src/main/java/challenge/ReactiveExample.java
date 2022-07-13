@@ -35,7 +35,7 @@ public class ReactiveExample {
     }
 
     //TODO: mayor puntaje de estudiante
-    public Mono<Estudiante> mayorPuntajeDeEstudiante(int limit) {
+    public Flux<Estudiante> mayorPuntajeDeEstudiante(int limit) {
         return null;
 
     }
